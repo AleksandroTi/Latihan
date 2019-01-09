@@ -2,7 +2,7 @@
 <body>
 <style>
 body {
-  background-color: yellow;
+  background-color: orange;
 }
 
 h1 {
